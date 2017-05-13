@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'Chap';
+  font-weight: 700;
+  font-style: italic;
+  src: url('Chap Bold Italic.eot');
+  src: url('Chap Bold Italic.eot?#iefix') format('embedded-opentype'),
+       url('Chap Bold Italic.woff') format('woff');
+}

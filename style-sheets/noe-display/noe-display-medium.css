@@ -1,6 +1,7 @@
 @font-face {
   font-family: 'Noe Display';
-  font-weight: 600;
+  font-weight: 500;
+  font-style: normal;
   src: url('Noe Display Medium.eot');
   src: url('Noe Display Medium.eot?#iefix') format('embedded-opentype'),
        url('Noe Display Medium.woff') format('woff');

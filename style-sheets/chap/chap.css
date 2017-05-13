@@ -1,0 +1,107 @@
+@font-face {
+  font-family: 'Chap';
+  font-weight: 300;
+  font-style: normal;
+  src: url('Chap Light.eot');
+  src: url('Chap Light.eot?#iefix') format('embedded-opentype'),
+       url('Chap Light.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Chap';
+  font-weight: 300;
+  font-style: italic;
+  src: url('Chap Light Italic.eot');
+  src: url('Chap Light Italic.eot?#iefix') format('embedded-opentype'),
+       url('Chap Light Italic.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Chap';
+  font-weight: 400;
+  font-style: normal;
+  src: url('Chap Regular.eot');
+  src: url('Chap Regular.eot?#iefix') format('embedded-opentype'),
+       url('Chap Regular.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Chap';
+  font-weight: 400;
+  font-style: italic;
+  src: url('Chap Regular Italic.eot');
+  src: url('Chap Regular Italic.eot?#iefix') format('embedded-opentype'),
+       url('Chap Regular Italic.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Chap';
+  font-weight: 500;
+  font-style: normal;
+  src: url('Chap Medium.eot');
+  src: url('Chap Medium.eot?#iefix') format('embedded-opentype'),
+       url('Chap Medium.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Chap';
+  font-weight: 500;
+  font-style: italic;
+  src: url('Chap Medium Italic.eot');
+  src: url('Chap Medium Italic.eot?#iefix') format('embedded-opentype'),
+       url('Chap Medium Italic.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Chap';
+  font-weight: 600;
+  font-style: normal;
+  src: url('Chap Semibold.eot');
+  src: url('Chap Semibold.eot?#iefix') format('embedded-opentype'),
+       url('Chap Semibold.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Chap';
+  font-weight: 600;
+  font-style: italic;
+  src: url('Chap Semibold Italic.eot');
+  src: url('Chap Semibold Italic.eot?#iefix') format('embedded-opentype'),
+       url('Chap Semibold Italic.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Chap';
+  font-weight: 700;
+  font-style: normal;
+  src: url('Chap Bold.eot');
+  src: url('Chap Bold.eot?#iefix') format('embedded-opentype'),
+       url('Chap Bold.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Chap';
+  font-weight: 700;
+  font-style: italic;
+  src: url('Chap Bold Italic.eot');
+  src: url('Chap Bold Italic.eot?#iefix') format('embedded-opentype'),
+       url('Chap Bold Italic.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Chap';
+  font-weight: 900;
+  font-style: normal;
+  src: url('Chap Black.eot');
+  src: url('Chap Black.eot?#iefix') format('embedded-opentype'),
+       url('Chap Black.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Chap';
+  font-weight: 900;
+  font-style: italic;
+  src: url('Chap Black Italic.eot');
+  src: url('Chap Black Italic.eot?#iefix') format('embedded-opentype'),
+       url('Chap Black Italic.woff') format('woff');
+}

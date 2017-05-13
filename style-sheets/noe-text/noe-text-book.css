@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'Noe Text';
+  font-weight: 500;
+  font-style: normal;
+  src: url('Noe Text Book.eot');
+  src: url('Noe Text Book.eot?#iefix') format('embedded-opentype'),
+       url('Noe Text Book.woff') format('woff');
+}

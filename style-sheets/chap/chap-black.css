@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'Chap';
+  font-weight: 900;
+  font-style: normal;
+  src: url('Chap Black.eot');
+  src: url('Chap Black.eot?#iefix') format('embedded-opentype'),
+       url('Chap Black.woff') format('woff');
+}

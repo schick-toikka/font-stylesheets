@@ -1,0 +1,35 @@
+@font-face {
+  font-family: 'Spot Mono';
+  font-weight: 300;
+  font-style: normal;
+  src: url('Spot Mono Light.eot');
+  src: url('Spot Mono Light.eot?#iefix') format('embedded-opentype'),
+       url('Spot Mono Light.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Spot Mono';
+  font-weight: 400;
+  font-style: normal;
+  src: url('Spot Mono Regular.eot');
+  src: url('Spot Mono Regular.eot?#iefix') format('embedded-opentype'),
+       url('Spot Mono Regular.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Spot Mono';
+  font-weight: 600;
+  font-style: normal;
+  src: url('Spot Mono Medium.eot');
+  src: url('Spot Mono Medium.eot?#iefix') format('embedded-opentype'),
+       url('Spot Mono Medium.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Spot Mono';
+  font-weight: 700;
+  font-style: normal;
+  src: url('Spot Mono Bold.eot');
+  src: url('Spot Mono Bold.eot?#iefix') format('embedded-opentype'),
+       url('Spot Mono Bold.woff') format('woff');
+}

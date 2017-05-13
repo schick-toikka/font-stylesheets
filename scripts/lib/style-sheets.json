@@ -1,0 +1,73 @@
+[{
+  "name": "Krana Fat",
+  "weights": [
+    { "name": "A" },
+    { "name": "B" }
+  ]
+}, {
+  "name": "Chap",
+  "weights": [
+    { "name": "Light", "cssWeight": 300 },
+    { "name": "Regular", "cssWeight": 400 },
+    { "name": "Medium", "cssWeight": 500 },
+    { "name": "Semibold", "cssWeight": 600 },
+    { "name": "Bold", "cssWeight": 700 },
+    { "name": "Black", "cssWeight": 900 }
+  ],
+  "styles": [
+    { "name": null, "cssStyle": "normal" },
+    { "name": "Italic", "cssStyle": "italic" }
+  ]
+}, {
+  "name": "Noe Text",
+  "weights": [
+    { "name": "Regular", "cssWeight": 400 },
+    { "name": "Book", "cssWeight": 500 },
+    { "name": "Semibold", "cssWeight": 600 },
+    { "name": "Bold", "cssWeight": 700 },
+    { "name": "Black", "cssWeight": 900 }
+  ],
+  "styles": [
+    { "name": null, "cssStyle": "normal" },
+    { "name": "Italic", "cssStyle": "italic" }
+  ]
+}, {
+  "name": "Noe Display",
+  "weights": [
+    { "name": "Regular", "cssWeight": 400 },
+    { "name": "Medium", "cssWeight": 500 },
+    { "name": "Bold", "cssWeight": 700 },
+    { "name": "Black", "cssWeight": 900 }
+  ],
+  "styles": [
+    { "name": null, "cssStyle": "normal" },
+    { "name": "Italic", "cssStyle": "italic" }
+  ]
+}, {
+  "name": "Dia",
+  "weights": [
+    { "name": "Light", "cssWeight": 300 },
+    { "name": "Regular", "cssWeight": 400 },
+    { "name": "Bold", "cssWeight": 700 },
+    { "name": "Black", "cssWeight": 900 }
+  ],
+  "styles": [
+    { "name": null, "cssStyle": "normal" },
+    { "name": "Italic", "cssStyle": "italic" }
+  ]
+}, {
+  "name": "Spot Mono",
+  "weights": [
+    { "name": "Light", "cssWeight": 300 },
+    { "name": "Regular", "cssWeight": 400 },
+    { "name": "Medium", "cssWeight": 600 },
+    { "name": "Bold", "cssWeight": 700 }
+  ]
+}, {
+  "name": "Trio Grotesk",
+  "weights": [
+    { "name": "Normal", "cssWeight": 400 },
+    { "name": "Medium", "cssWeight": 600 },
+    { "name": "Bold", "cssWeight": 700 }
+  ]
+}]

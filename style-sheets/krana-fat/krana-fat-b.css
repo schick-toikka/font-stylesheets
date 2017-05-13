@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'Krana Fat B';
+  font-weight: 400;
+  font-style: normal;
+  src: url('Krana Fat B.eot');
+  src: url('Krana Fat B.eot?#iefix') format('embedded-opentype'),
+       url('Krana Fat B.woff') format('woff');
+}

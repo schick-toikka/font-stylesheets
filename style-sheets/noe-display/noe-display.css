@@ -1,0 +1,71 @@
+@font-face {
+  font-family: 'Noe Display';
+  font-weight: 400;
+  font-style: normal;
+  src: url('Noe Display Regular.eot');
+  src: url('Noe Display Regular.eot?#iefix') format('embedded-opentype'),
+       url('Noe Display Regular.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Noe Display';
+  font-weight: 400;
+  font-style: italic;
+  src: url('Noe Display Regular Italic.eot');
+  src: url('Noe Display Regular Italic.eot?#iefix') format('embedded-opentype'),
+       url('Noe Display Regular Italic.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Noe Display';
+  font-weight: 500;
+  font-style: normal;
+  src: url('Noe Display Medium.eot');
+  src: url('Noe Display Medium.eot?#iefix') format('embedded-opentype'),
+       url('Noe Display Medium.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Noe Display';
+  font-weight: 500;
+  font-style: italic;
+  src: url('Noe Display Medium Italic.eot');
+  src: url('Noe Display Medium Italic.eot?#iefix') format('embedded-opentype'),
+       url('Noe Display Medium Italic.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Noe Display';
+  font-weight: 700;
+  font-style: normal;
+  src: url('Noe Display Bold.eot');
+  src: url('Noe Display Bold.eot?#iefix') format('embedded-opentype'),
+       url('Noe Display Bold.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Noe Display';
+  font-weight: 700;
+  font-style: italic;
+  src: url('Noe Display Bold Italic.eot');
+  src: url('Noe Display Bold Italic.eot?#iefix') format('embedded-opentype'),
+       url('Noe Display Bold Italic.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Noe Display';
+  font-weight: 900;
+  font-style: normal;
+  src: url('Noe Display Black.eot');
+  src: url('Noe Display Black.eot?#iefix') format('embedded-opentype'),
+       url('Noe Display Black.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Noe Display';
+  font-weight: 900;
+  font-style: italic;
+  src: url('Noe Display Black Italic.eot');
+  src: url('Noe Display Black Italic.eot?#iefix') format('embedded-opentype'),
+       url('Noe Display Black Italic.woff') format('woff');
+}

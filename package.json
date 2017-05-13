@@ -1,0 +1,15 @@
+{
+  "name": "font-stylesheets",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:schick-toikka/font-stylesheets.git",
+  "author": "Jouko Saastamoinen <jouko@schick-toikka.com>",
+  "license": "MIT",
+  "scripts": {
+    "generate-style-sheets": "node scripts/generate-style-sheets.js"
+  },
+  "dependencies": {
+    "mkdirp": "^0.5.1",
+    "slugify": "^1.1.0"
+  }
+}

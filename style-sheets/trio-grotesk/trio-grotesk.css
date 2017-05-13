@@ -1,0 +1,26 @@
+@font-face {
+  font-family: 'Trio Grotesk';
+  font-weight: 400;
+  font-style: normal;
+  src: url('Trio Grotesk Normal.eot');
+  src: url('Trio Grotesk Normal.eot?#iefix') format('embedded-opentype'),
+       url('Trio Grotesk Normal.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Trio Grotesk';
+  font-weight: 600;
+  font-style: normal;
+  src: url('Trio Grotesk Medium.eot');
+  src: url('Trio Grotesk Medium.eot?#iefix') format('embedded-opentype'),
+       url('Trio Grotesk Medium.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Trio Grotesk';
+  font-weight: 700;
+  font-style: normal;
+  src: url('Trio Grotesk Bold.eot');
+  src: url('Trio Grotesk Bold.eot?#iefix') format('embedded-opentype'),
+       url('Trio Grotesk Bold.woff') format('woff');
+}

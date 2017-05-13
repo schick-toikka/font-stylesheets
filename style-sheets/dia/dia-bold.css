@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'Dia';
+  font-weight: 700;
+  font-style: normal;
+  src: url('Dia Bold.eot');
+  src: url('Dia Bold.eot?#iefix') format('embedded-opentype'),
+       url('Dia Bold.woff') format('woff');
+}

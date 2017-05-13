@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'Spot Mono';
+  font-weight: 300;
+  font-style: normal;
+  src: url('Spot Mono Light.eot');
+  src: url('Spot Mono Light.eot?#iefix') format('embedded-opentype'),
+       url('Spot Mono Light.woff') format('woff');
+}

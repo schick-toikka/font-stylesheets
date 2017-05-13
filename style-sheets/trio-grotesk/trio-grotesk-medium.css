@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'Trio Grotesk';
+  font-weight: 600;
+  font-style: normal;
+  src: url('Trio Grotesk Medium.eot');
+  src: url('Trio Grotesk Medium.eot?#iefix') format('embedded-opentype'),
+       url('Trio Grotesk Medium.woff') format('woff');
+}

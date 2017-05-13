@@ -1,0 +1,89 @@
+@font-face {
+  font-family: 'Noe Text';
+  font-weight: 400;
+  font-style: normal;
+  src: url('Noe Text Regular.eot');
+  src: url('Noe Text Regular.eot?#iefix') format('embedded-opentype'),
+       url('Noe Text Regular.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Noe Text';
+  font-weight: 400;
+  font-style: italic;
+  src: url('Noe Text Regular Italic.eot');
+  src: url('Noe Text Regular Italic.eot?#iefix') format('embedded-opentype'),
+       url('Noe Text Regular Italic.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Noe Text';
+  font-weight: 500;
+  font-style: normal;
+  src: url('Noe Text Book.eot');
+  src: url('Noe Text Book.eot?#iefix') format('embedded-opentype'),
+       url('Noe Text Book.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Noe Text';
+  font-weight: 500;
+  font-style: italic;
+  src: url('Noe Text Book Italic.eot');
+  src: url('Noe Text Book Italic.eot?#iefix') format('embedded-opentype'),
+       url('Noe Text Book Italic.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Noe Text';
+  font-weight: 600;
+  font-style: normal;
+  src: url('Noe Text Semibold.eot');
+  src: url('Noe Text Semibold.eot?#iefix') format('embedded-opentype'),
+       url('Noe Text Semibold.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Noe Text';
+  font-weight: 600;
+  font-style: italic;
+  src: url('Noe Text Semibold Italic.eot');
+  src: url('Noe Text Semibold Italic.eot?#iefix') format('embedded-opentype'),
+       url('Noe Text Semibold Italic.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Noe Text';
+  font-weight: 700;
+  font-style: normal;
+  src: url('Noe Text Bold.eot');
+  src: url('Noe Text Bold.eot?#iefix') format('embedded-opentype'),
+       url('Noe Text Bold.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Noe Text';
+  font-weight: 700;
+  font-style: italic;
+  src: url('Noe Text Bold Italic.eot');
+  src: url('Noe Text Bold Italic.eot?#iefix') format('embedded-opentype'),
+       url('Noe Text Bold Italic.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Noe Text';
+  font-weight: 900;
+  font-style: normal;
+  src: url('Noe Text Black.eot');
+  src: url('Noe Text Black.eot?#iefix') format('embedded-opentype'),
+       url('Noe Text Black.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Noe Text';
+  font-weight: 900;
+  font-style: italic;
+  src: url('Noe Text Black Italic.eot');
+  src: url('Noe Text Black Italic.eot?#iefix') format('embedded-opentype'),
+       url('Noe Text Black Italic.woff') format('woff');
+}

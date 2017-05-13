@@ -1,0 +1,71 @@
+@font-face {
+  font-family: 'Dia';
+  font-weight: 300;
+  font-style: normal;
+  src: url('Dia Light.eot');
+  src: url('Dia Light.eot?#iefix') format('embedded-opentype'),
+       url('Dia Light.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Dia';
+  font-weight: 300;
+  font-style: italic;
+  src: url('Dia Light Italic.eot');
+  src: url('Dia Light Italic.eot?#iefix') format('embedded-opentype'),
+       url('Dia Light Italic.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Dia';
+  font-weight: 400;
+  font-style: normal;
+  src: url('Dia Regular.eot');
+  src: url('Dia Regular.eot?#iefix') format('embedded-opentype'),
+       url('Dia Regular.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Dia';
+  font-weight: 400;
+  font-style: italic;
+  src: url('Dia Regular Italic.eot');
+  src: url('Dia Regular Italic.eot?#iefix') format('embedded-opentype'),
+       url('Dia Regular Italic.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Dia';
+  font-weight: 700;
+  font-style: normal;
+  src: url('Dia Bold.eot');
+  src: url('Dia Bold.eot?#iefix') format('embedded-opentype'),
+       url('Dia Bold.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Dia';
+  font-weight: 700;
+  font-style: italic;
+  src: url('Dia Bold Italic.eot');
+  src: url('Dia Bold Italic.eot?#iefix') format('embedded-opentype'),
+       url('Dia Bold Italic.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Dia';
+  font-weight: 900;
+  font-style: normal;
+  src: url('Dia Black.eot');
+  src: url('Dia Black.eot?#iefix') format('embedded-opentype'),
+       url('Dia Black.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Dia';
+  font-weight: 900;
+  font-style: italic;
+  src: url('Dia Black Italic.eot');
+  src: url('Dia Black Italic.eot?#iefix') format('embedded-opentype'),
+       url('Dia Black Italic.woff') format('woff');
+}

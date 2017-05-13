@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'Dia';
+  font-weight: 900;
+  font-style: italic;
+  src: url('Dia Black Italic.eot');
+  src: url('Dia Black Italic.eot?#iefix') format('embedded-opentype'),
+       url('Dia Black Italic.woff') format('woff');
+}

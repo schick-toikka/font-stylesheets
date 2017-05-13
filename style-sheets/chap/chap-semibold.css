@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'Chap';
+  font-weight: 600;
+  font-style: normal;
+  src: url('Chap Semibold.eot');
+  src: url('Chap Semibold.eot?#iefix') format('embedded-opentype'),
+       url('Chap Semibold.woff') format('woff');
+}
