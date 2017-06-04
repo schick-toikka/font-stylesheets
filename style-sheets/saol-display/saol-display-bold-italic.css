@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'Saol Display';
+  font-weight: 700;
+  font-style: italic;
+  src: url('Saol Display Bold Italic.eot');
+  src: url('Saol Display Bold Italic.eot?#iefix') format('embedded-opentype'),
+       url('Saol Display Bold Italic.woff') format('woff');
+}

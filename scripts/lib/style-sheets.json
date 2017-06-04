@@ -1,4 +1,17 @@
 [{
+  "name": "Saol Display",
+  "weights": [
+    { "name": "Light", "cssWeight": 300 },
+    { "name": "Regular", "cssWeight": 400 },
+    { "name": "Medium", "cssWeight": 500 },
+    { "name": "Semibold", "cssWeight": 600 },
+    { "name": "Bold", "cssWeight": 700 }
+  ],
+  "styles": [
+    { "name": null, "cssStyle": "normal" },
+    { "name": "Italic", "cssStyle": "italic" }
+  ]
+}, {
   "name": "Krana Fat",
   "weights": [
     { "name": "A" },

@@ -1,0 +1,89 @@
+@font-face {
+  font-family: 'Saol Display';
+  font-weight: 300;
+  font-style: normal;
+  src: url('Saol Display Light.eot');
+  src: url('Saol Display Light.eot?#iefix') format('embedded-opentype'),
+       url('Saol Display Light.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Saol Display';
+  font-weight: 300;
+  font-style: italic;
+  src: url('Saol Display Light Italic.eot');
+  src: url('Saol Display Light Italic.eot?#iefix') format('embedded-opentype'),
+       url('Saol Display Light Italic.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Saol Display';
+  font-weight: 400;
+  font-style: normal;
+  src: url('Saol Display Regular.eot');
+  src: url('Saol Display Regular.eot?#iefix') format('embedded-opentype'),
+       url('Saol Display Regular.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Saol Display';
+  font-weight: 400;
+  font-style: italic;
+  src: url('Saol Display Regular Italic.eot');
+  src: url('Saol Display Regular Italic.eot?#iefix') format('embedded-opentype'),
+       url('Saol Display Regular Italic.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Saol Display';
+  font-weight: 500;
+  font-style: normal;
+  src: url('Saol Display Medium.eot');
+  src: url('Saol Display Medium.eot?#iefix') format('embedded-opentype'),
+       url('Saol Display Medium.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Saol Display';
+  font-weight: 500;
+  font-style: italic;
+  src: url('Saol Display Medium Italic.eot');
+  src: url('Saol Display Medium Italic.eot?#iefix') format('embedded-opentype'),
+       url('Saol Display Medium Italic.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Saol Display';
+  font-weight: 600;
+  font-style: normal;
+  src: url('Saol Display Semibold.eot');
+  src: url('Saol Display Semibold.eot?#iefix') format('embedded-opentype'),
+       url('Saol Display Semibold.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Saol Display';
+  font-weight: 600;
+  font-style: italic;
+  src: url('Saol Display Semibold Italic.eot');
+  src: url('Saol Display Semibold Italic.eot?#iefix') format('embedded-opentype'),
+       url('Saol Display Semibold Italic.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Saol Display';
+  font-weight: 700;
+  font-style: normal;
+  src: url('Saol Display Bold.eot');
+  src: url('Saol Display Bold.eot?#iefix') format('embedded-opentype'),
+       url('Saol Display Bold.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Saol Display';
+  font-weight: 700;
+  font-style: italic;
+  src: url('Saol Display Bold Italic.eot');
+  src: url('Saol Display Bold Italic.eot?#iefix') format('embedded-opentype'),
+       url('Saol Display Bold Italic.woff') format('woff');
+}

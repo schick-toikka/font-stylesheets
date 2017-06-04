@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'Saol Display';
+  font-weight: 400;
+  font-style: normal;
+  src: url('Saol Display Regular.eot');
+  src: url('Saol Display Regular.eot?#iefix') format('embedded-opentype'),
+       url('Saol Display Regular.woff') format('woff');
+}
