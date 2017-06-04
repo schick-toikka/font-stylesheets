@@ -1,0 +1,107 @@
+@font-face {
+  font-family: 'Saol Text';
+  font-weight: 200;
+  font-style: normal;
+  src: url('Saol Text Light.eot');
+  src: url('Saol Text Light.eot?#iefix') format('embedded-opentype'),
+       url('Saol Text Light.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Saol Text';
+  font-weight: 200;
+  font-style: italic;
+  src: url('Saol Text Light Italic.eot');
+  src: url('Saol Text Light Italic.eot?#iefix') format('embedded-opentype'),
+       url('Saol Text Light Italic.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Saol Text';
+  font-weight: 300;
+  font-style: normal;
+  src: url('Saol Text Regular.eot');
+  src: url('Saol Text Regular.eot?#iefix') format('embedded-opentype'),
+       url('Saol Text Regular.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Saol Text';
+  font-weight: 300;
+  font-style: italic;
+  src: url('Saol Text Regular Italic.eot');
+  src: url('Saol Text Regular Italic.eot?#iefix') format('embedded-opentype'),
+       url('Saol Text Regular Italic.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Saol Text';
+  font-weight: 400;
+  font-style: normal;
+  src: url('Saol Text Book.eot');
+  src: url('Saol Text Book.eot?#iefix') format('embedded-opentype'),
+       url('Saol Text Book.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Saol Text';
+  font-weight: 400;
+  font-style: italic;
+  src: url('Saol Text Book Italic.eot');
+  src: url('Saol Text Book Italic.eot?#iefix') format('embedded-opentype'),
+       url('Saol Text Book Italic.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Saol Text';
+  font-weight: 500;
+  font-style: normal;
+  src: url('Saol Text Medium.eot');
+  src: url('Saol Text Medium.eot?#iefix') format('embedded-opentype'),
+       url('Saol Text Medium.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Saol Text';
+  font-weight: 500;
+  font-style: italic;
+  src: url('Saol Text Medium Italic.eot');
+  src: url('Saol Text Medium Italic.eot?#iefix') format('embedded-opentype'),
+       url('Saol Text Medium Italic.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Saol Text';
+  font-weight: 600;
+  font-style: normal;
+  src: url('Saol Text Semibold.eot');
+  src: url('Saol Text Semibold.eot?#iefix') format('embedded-opentype'),
+       url('Saol Text Semibold.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Saol Text';
+  font-weight: 600;
+  font-style: italic;
+  src: url('Saol Text Semibold Italic.eot');
+  src: url('Saol Text Semibold Italic.eot?#iefix') format('embedded-opentype'),
+       url('Saol Text Semibold Italic.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Saol Text';
+  font-weight: 700;
+  font-style: normal;
+  src: url('Saol Text Bold.eot');
+  src: url('Saol Text Bold.eot?#iefix') format('embedded-opentype'),
+       url('Saol Text Bold.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Saol Text';
+  font-weight: 700;
+  font-style: italic;
+  src: url('Saol Text Bold Italic.eot');
+  src: url('Saol Text Bold Italic.eot?#iefix') format('embedded-opentype'),
+       url('Saol Text Bold Italic.woff') format('woff');
+}

@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'Saol Text';
+  font-weight: 600;
+  font-style: italic;
+  src: url('Saol Text Semibold Italic.eot');
+  src: url('Saol Text Semibold Italic.eot?#iefix') format('embedded-opentype'),
+       url('Saol Text Semibold Italic.woff') format('woff');
+}

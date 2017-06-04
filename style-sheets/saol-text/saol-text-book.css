@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'Saol Text';
+  font-weight: 400;
+  font-style: normal;
+  src: url('Saol Text Book.eot');
+  src: url('Saol Text Book.eot?#iefix') format('embedded-opentype'),
+       url('Saol Text Book.woff') format('woff');
+}

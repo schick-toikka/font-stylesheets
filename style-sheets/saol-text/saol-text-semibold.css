@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'Saol Text';
+  font-weight: 600;
+  font-style: normal;
+  src: url('Saol Text Semibold.eot');
+  src: url('Saol Text Semibold.eot?#iefix') format('embedded-opentype'),
+       url('Saol Text Semibold.woff') format('woff');
+}
