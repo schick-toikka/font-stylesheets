@@ -37,10 +37,12 @@ const styleSheets = families.reduce((sheets, family) => {
       filename: `${name}/${name}.css`,
       css: `${styleSheetSet.map(styleSheet => styleSheet.css).join('\n\n')}\n`
     },
-    ...styleSheetSet.map(styleSheet => ({
-      filename: `${name}/${slugify(styleSheet.name).toLowerCase()}.css`,
-      css: `${styleSheet.css}\n`
-    }))
+    ...(styleSheetSet.length > 1 ? (
+      styleSheetSet.map(styleSheet => ({
+        filename: `${name}/${slugify(styleSheet.name).toLowerCase()}.css`,
+        css: `${styleSheet.css}\n`
+      }))
+    ) : [])
   ]
 }, [])
 

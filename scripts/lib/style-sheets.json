@@ -1,4 +1,9 @@
 [{
+  "name": "Saol Text Monospaced",
+  "weights": [
+    { "name": null, "cssWeight": 400 }
+  ]
+}, {
   "name": "Saol Text",
   "weights": [
     { "name": "Light", "cssWeight": 200 },
